@@ -40,7 +40,7 @@ My chosen API for this project is **PokeAPI**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![Random Pokemon Demo](https://user-images.githubusercontent.com/123886642/229180164-3c4d731c-985d-44a2-a72b-75152510a5d9.gif)
+<img src="https://user-images.githubusercontent.com/123886642/229180164-3c4d731c-985d-44a2-a72b-75152510a5d9.gif" width="30%" height="30%">
 
 GIF created with **Kap for macOS**
 
