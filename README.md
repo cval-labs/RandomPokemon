@@ -40,9 +40,9 @@ My chosen API for this project is **PokeAPI**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![Random Pokemon Demo](https://user-images.githubusercontent.com/123886642/229180164-3c4d731c-985d-44a2-a72b-75152510a5d9.gif)
 
-GIF created with **[Kap] for macOS**
+GIF created with **Kap for macOS**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
