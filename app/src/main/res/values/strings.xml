@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random Pokemon</string>
+    <string name="title">IT\'S A RANDOM\nPOKEMON!!</string>
+    <string name="pokemonName">Ditto</string>
+    <string name="pokemonType">Type: Normal</string>
+    <string name="button">Next Pokemon!</string>
+</resources>
